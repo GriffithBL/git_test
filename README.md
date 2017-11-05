@@ -1,2 +1,3 @@
-# git_test
-Odin tutorial test
+
+ReadMe file for ODIN Project for Git and GitHub tutorial
+Hello World!
